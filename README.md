@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @BafnotiGabra
 - 👀 I’m interested in technology in general, I like using python and programming to solve industrial problems, 
+- 👨🛠📋 I hold 2 M.Sc. in 2 different spescialisations... 
+- Self Employed, Open for work!
 - Python is kinda fun at least when compared to other programming languages.
 - 🌱 I’m open to learning new skills to tackle new challenges
 - 💞️ I’m looking to collaborate on interesting projects.
